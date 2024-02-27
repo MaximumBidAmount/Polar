@@ -172,6 +172,7 @@ div[class="Advantages"] {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    margin-bottom: 25px;
 }
 
 ul[class="Advantage"] {
@@ -430,6 +431,11 @@ img[class="Person-2"] {
 }
 
 img[class="Ice-Cream-1"] {
-    width: 181px;
-    height: 57.81px;
+    width: 564px;
+    height: 442px
+}
+
+div [class="Download"] {
+    width: 1081px;
+    height: 627px;
 }
